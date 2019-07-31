@@ -49,4 +49,6 @@
 
 * 其他
 
+    * [Node-party](https://github.com/NodeParty-China/Node-Party)
+
     * [使用markdown编写ppt](https://yhatt.github.io/marp/)
