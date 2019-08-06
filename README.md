@@ -54,3 +54,5 @@
     * [使用markdown编写ppt](https://yhatt.github.io/marp/)
 
     * [SSH免密登录原理及配置](https://blog.csdn.net/weixin_35852328/article/details/81662897)
+
+    * [CentOS本地环境搭建](https://blog.csdn.net/a1085075119/article/details/81476117)
