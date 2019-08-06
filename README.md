@@ -52,3 +52,5 @@
     * [Node-party](https://github.com/NodeParty-China/Node-Party)
 
     * [使用markdown编写ppt](https://yhatt.github.io/marp/)
+
+    * [SSH免密登录原理及配置](https://blog.csdn.net/weixin_35852328/article/details/81662897)
