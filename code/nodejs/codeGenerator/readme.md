@@ -1,9 +1,9 @@
-#简易组件生成器
+# 简易组件生成器
 
-##使用说明
+## 使用说明
 根据自家项目结构及开发规范，开发此小工具，用于项目开发期间，快速创建页面
 
-##使用方法
+## 使用方法
 1. 将工具中的scripts放置到需要项目的根目录中
 2. 添加 scripts 至项目package.json
 ```
@@ -24,11 +24,13 @@
 
   在 pages 或 component 下生成对应名称的组件
 ```      
-##Image
+## Image
 pages/Parent/Child/index.js
+
 ![image](https://github.com/mr-hjw/blog/blob/master/code/nodejs/codeGenerator/page-img.png?raw=true)
 
 components/CommonTable/index.js
+
 ![image](https://github.com/mr-hjw/blog/blob/master/code/nodejs/codeGenerator/comp-img.png?raw=true) 
   
 
