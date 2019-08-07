@@ -7,12 +7,13 @@
 > * Http
 > * JS/ES6/ES.next
 > * Vue/Vuex
-> * React/Redux/Mobx/RxJS
+> * React/Redux/Mobx/RxJS/Next
 > * Nodejs
 > * Golang
 > * 构建工具
 > * Threejs/WebGL
 > * Jenkins
+> * Docker
 > * Vscode
 > * 其他
 
@@ -37,12 +38,17 @@
 
     * [手写脚手架](https://juejin.im/post/5d37d982e51d45108c59a635)
 
+    * [组件生成器](https://github.com/mr-hjw/blog/tree/master/code/nodejs/codeGenerator)
+
 * Threejs/WebGL
 
 
 * Jenkins
 
     * [jenkins持续构建](https://juejin.im/post/5d3fb5046fb9a06b0935f47d)
+
+* Docker
+
 
 * Vscode
 
